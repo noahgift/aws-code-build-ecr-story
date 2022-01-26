@@ -8,3 +8,5 @@ A repo that explores pushing code to ECR through AWS Code build
 ## References
 
 * [FastAPI Container](https://github.com/noahgift/fastapi)
+* [Watch on O'Reilly](https://learning.oreilly.com/videos/container-continuous-delivery/012632022VIDEOPAIML/)
+* [Watch on Youtube](https://youtu.be/revn4n2v8-U)
